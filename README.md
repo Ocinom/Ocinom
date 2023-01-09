@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ocinom
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, Java, C++, SQL (MySQL, PostgresSQL), HTML, PHP, CSS
-- 💞️ I’m looking to collaborate on anything I can get my hands on
+- 👀 I’m interested in all things IT, particularly programming and cybersecurity
+- 🌱 I’ve dabbled in Python, Java, PHP, HTML, CSS, Javascript. Currently, I'm picking up Rust as I find that there are many lower level concepts that I have not wrapped my head around yet
+- 💞️ Criticism is welcome. Be nice please
 - 📫 How to reach me : right here
 
 <!---
